@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/picture1.jpeg</file>
+        <file>picture/picture2.jpeg</file>
+        <file>picture/picture3.jpeg</file>
+        <file>picture/picture4.jpeg</file>
+        <file>picture/picture5.jpeg</file>
+        <file>picture/tb.ico</file>
+    </qresource>
+</RCC>
